@@ -30,3 +30,17 @@ Termination condition - 50 tasks
 
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737509
+
+
+### mTS: Temporal-and Spatial-Collaborative Charging for Wireless Rechargeable Sensor Networks with Multiple Vehicles
+
+IEEE INFOCOM 2018
+
+Environment - 
+50 sensors
+1000 x 1000 m
+5 Chargers
+
+The Network is divided into subdomains which are assigned to a mobile charger, which serves it.
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8486402
