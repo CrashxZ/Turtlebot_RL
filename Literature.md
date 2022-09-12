@@ -1,4 +1,4 @@
-### Architecture in Wireless Rechargeable Sensor Networks
+### P2S: A Primary and Passer-by Scheduling Algorithm for On-demand Charging Architecture in Wireless Rechargeable Sensor Networks
 
 Chi Lin, Member, IEEE, Ding Han, Jing Deng, Fellow, IEEE, and Guowei Wu
 
